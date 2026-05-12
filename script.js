@@ -2,7 +2,7 @@
 // ---------------------------------------------------------------------------
 // Paste the deployed Google Apps Script Web App URL between the quotes below.
 // (See README.md → "Newsletter signup" for the one-time setup.)
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwpKGNje7Wpdbt5OWeGBkrjU7v2OxrpMFxM018dVUVjM3_MdRa6f_rTOyt1W9gex4FH/exec";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzhD-ScGMEiIMFA6eLSo-AM42gEXgNrxmXo1G2uAhKwhr45Xp53Uo0YWDwT9O5OcDuj/exec";
 // ---------------------------------------------------------------------------
 
 (function () {
